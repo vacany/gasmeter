@@ -1,10 +1,12 @@
 ## How to Start
 
-[x] Make sure you have conda installed
+- [ ] Make sure you have conda installed
+- [ ] Put image files (.jpg) into `gasmeter` folder 
 
 ```console
 source install.sh
 ```
+
 
 ## How to Run
 
